@@ -16,7 +16,7 @@
 - Place the `.list` files under these directories.
 
 ### Example Sample List Structure
-input/
-└── input_MC/
-├── TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/
-└── ST_tW_top_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8_7.list
+-input/
+-└── input_MC/
+-├── TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/
+-└── ST_tW_top_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8_7.list
