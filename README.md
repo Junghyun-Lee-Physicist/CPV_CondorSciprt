@@ -16,4 +16,4 @@
 - Place the `.list` files under these directories.
 
 ### Example Sample List Structure
-- input/input_MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8_205.list
+- `input/input_MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8_205.list`
